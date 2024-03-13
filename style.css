@@ -26,6 +26,8 @@ h2{
 }
 button{
     background-color: darkslategrey;
+    height:15%;
+    width:10%;
         }
 button a{
     color: white;
